@@ -1,0 +1,20 @@
+# NAME: Emby
+# Jmsooo
+DOMAIN-SUFFIX,cf.jmsooo.com
+DOMAIN-SUFFIX,ha.jmsooo.com
+DOMAIN-KEYWORD,jmsooo.com
+# Charontv
+DOMAIN-SUFFIX,play.charontv.com
+# Misakaf
+DOMAIN-SUFFIX,emby.misakaf.xyz
+DOMAIN-SUFFIX,emby.misakaf.org
+DOMAIN-SUFFIX,cf.misakaf.org
+DOMAIN-SUFFIX,tz.misakaf.org
+DOMAIN-SUFFIX,4837.misakaf.org
+DOMAIN-KEYWORD,misakaf.org
+DOMAIN-SUFFIX,cdn.misakaf.org
+# Terminus
+DOMAIN-SUFFIX,play.pub1.emby.wtf
+DOMAIN-SUFFIX,play.pub2.emby.wtf
+DOMAIN-SUFFIX,play.pub3.emby.wtf
+DOMAIN-SUFFIX,play.pub4.emby.wtf
