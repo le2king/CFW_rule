@@ -1,0 +1,6 @@
+# NAME: Direct
+# AUTHOR: leking
+# UPDATED: 2024-08-17 
+HOST-SUFFIX,app2-icps.spdb.com.cn,SPDB
+HOST-SUFFIX,icps.spdb.com.cn,SPDB
+HOST-SUFFIX,mpaas.spdb.com.cn,SPDB
